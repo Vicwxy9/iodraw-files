@@ -21,7 +21,7 @@
             <mxPoint x="230" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZR2He-sb36K0sKOh_r6-2" value="&lt;font face=&quot;宋体&quot;&gt;检测&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HZR2He-sb36K0sKOh_r6-2" value="&lt;font face=&quot;宋体&quot;&gt;检测人脸&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="200" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
