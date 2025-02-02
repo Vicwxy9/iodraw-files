@@ -64,8 +64,8 @@
         <mxCell id="HZR2He-sb36K0sKOh_r6-14" value="解算头部朝向" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="400" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HZR2He-sb36K0sKOh_r6-23" value="卡尔曼滤波器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="450" width="100" height="30" as="geometry" />
+        <mxCell id="HZR2He-sb36K0sKOh_r6-23" value="卡尔曼滤波器过滤" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="450" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
