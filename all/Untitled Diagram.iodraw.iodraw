@@ -32,8 +32,10 @@
         <mxCell id="HZR2He-sb36K0sKOh_r6-2" value="&lt;font&gt;检测人脸&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HZR2He-sb36K0sKOh_r6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HZR2He-sb36K0sKOh_r6-6" target="HZR2He-sb36K0sKOh_r6-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HZR2He-sb36K0sKOh_r6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="HZR2He-sb36K0sKOh_r6-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="350" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HZR2He-sb36K0sKOh_r6-6" value="提取人脸关键点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="280" width="120" height="30" as="geometry" />
@@ -41,8 +43,8 @@
         <mxCell id="HZR2He-sb36K0sKOh_r6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HZR2He-sb36K0sKOh_r6-11" target="HZR2He-sb36K0sKOh_r6-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="380" />
-              <mxPoint x="220" y="380" />
+              <mxPoint x="220" y="420" />
+              <mxPoint x="220" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -53,30 +55,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZR2He-sb36K0sKOh_r6-11" value="解算人脸至屏幕距离" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="330" width="120" height="30" as="geometry" />
+          <mxGeometry x="160" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZR2He-sb36K0sKOh_r6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HZR2He-sb36K0sKOh_r6-12" target="HZR2He-sb36K0sKOh_r6-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZR2He-sb36K0sKOh_r6-12" value="解算横向凝视点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="400" width="100" height="30" as="geometry" />
+          <mxGeometry x="60" y="440" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZR2He-sb36K0sKOh_r6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HZR2He-sb36K0sKOh_r6-13" target="HZR2He-sb36K0sKOh_r6-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZR2He-sb36K0sKOh_r6-13" value="解算纵向凝视点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="400" width="100" height="30" as="geometry" />
+          <mxGeometry x="170" y="440" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZR2He-sb36K0sKOh_r6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HZR2He-sb36K0sKOh_r6-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="469.9999999999999" as="targetPoint" />
+            <mxPoint x="220" y="509.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HZR2He-sb36K0sKOh_r6-14" value="解算头部朝向" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="400" width="100" height="30" as="geometry" />
+          <mxGeometry x="280" y="440" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZR2He-sb36K0sKOh_r6-23" value="卡尔曼滤波器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="470" width="120" height="30" as="geometry" />
+          <mxGeometry x="160" y="510" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
