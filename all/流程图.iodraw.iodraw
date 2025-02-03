@@ -39,6 +39,14 @@
           <mxGeometry x="160" y="280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kEcryugT6_-aGjgsD-ah-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HZR2He-sb36K0sKOh_r6-11" target="HZR2He-sb36K0sKOh_r6-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="420" />
+              <mxPoint x="160" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEcryugT6_-aGjgsD-ah-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HZR2He-sb36K0sKOh_r6-11" target="HZR2He-sb36K0sKOh_r6-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZR2He-sb36K0sKOh_r6-11" value="记录眼睑开合程度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
